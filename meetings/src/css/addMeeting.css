@@ -1,0 +1,20 @@
+.header {
+  padding: 10px;
+  text-align: left;
+  font-size: 25px;
+}
+.form-field {
+  margin: 10px;
+  padding: 10px;
+}
+
+.left-field {
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+.right-field {
+  text-align: left;
+  display: inline-block;
+  width: 65%;
+}
